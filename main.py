@@ -24,9 +24,9 @@ indeed = {
     'next_page': '//a[@data-testid="pagination-page-next"]'
 }
 
-JOB = 'data scientist'
-LOCATION = 'casablanca'
-MAX_JOBS = 5
+JOB = ''
+LOCATION = ''
+MAX_JOBS = 20
 
 
 options = Options()
